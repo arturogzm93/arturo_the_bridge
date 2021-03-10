@@ -1,6 +1,6 @@
-# **THE BRIDGE**
+# **The Bridge**
 
-## DATA SCIENCE
+## Data Science
 
 Repositorio con todo el contenido del bootcamp.
 
