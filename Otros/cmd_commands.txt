@@ -1,0 +1,31 @@
+pwd: VER DIRECTORIO DONDE ESTAMOS
+
+ls/dir : LISTAR CARPETAS
+
+ls -a: PARA ARCHIVOS OCULTOS
+
+ls -l: MUESTRA MAS INFORMACION
+ls -h: CAMBIA TAMAÑOS DE LOS ARVHIVOS
+
+cd "C:\Users\artur\Desktop\REPOSITORIOS\thebridgedsftene21": ABRIR DIRECTORIO
+cd 'C:\Users\artur\Desktop\REPOSITORIOS\thebridgedsftene21'
+
+cd ..: RETROCEDER UN DIRECTORIO
+
+cd --: VOLVER AL DIRECTORIO INICIAL
+
+mkdir: CREAR UNA CARPETA
+
+explorer: ABRIR ARCHIVOS
+
+cat + nombre archivo: ABRIR ARCHIVO EN TERMINAL
+
+nano + nombre archivo: ABRIR ARCHIVO Y MODIFICAR ARCHIVO
+
+cp + nombre archivo + ./ruta directorio/nuevo nombre del archivo(sino vacio): COPIAR Y PEGAR
+
+mv + nombre archivo + ./ruta directorio: MOVER ARCHIVO
+
+rm -r + nombre: ELIMINAR DIRECTORIO
+
+ping + direccion: CONECTAR A UN SERVIDOR
