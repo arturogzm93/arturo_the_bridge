@@ -1,0 +1,12 @@
+Entrevistas
+https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f
+https://github.com/alexeygrigorev/data-science-interviews
+https://github.com/kojino/120-Data-Science-Interview-Questions
+https://github.com/cdeweyx/DS-Career-Resources/blob/master/Interview-Resources.md
+https://www.datasciencecentral.com/profiles/blogs/109-commonly-asked-data-science-interview-questions
+
+Buscar trabajo como Data Scientist: https://github.com/ggerard/Data-Science--Cheat-Sheet-1/blob/master/Interview%20Questions/Getting%20Your%20First%20Job%20in%20DS.pdf
+
+Guia de estudio para entrevistas: https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723
+
+https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4
